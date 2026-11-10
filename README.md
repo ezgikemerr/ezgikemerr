@@ -44,7 +44,7 @@ I enjoy combining technical expertise with business understanding to solve real-
   <img src="https://skillicons.dev/icons?i=sklearn,pytorch,tensorflow" />
 </p>
 
-**Scikit-learn • Machine Learning • Classification • Regression • Random Forest • Logistic Regression • Gradient Boosting • Feature Engineering • Model Evaluation • Hyperparameter Tuning**
+**Scikit-learn • Machine Learning • Classification • Regression • Random Forest • Logistic Regression • Gradient Boosting •XGBoosting • Feature Engineering •SMOTE • Model Evaluation • Hyperparameter Tuning**
 
 ### 🧠 NLP & Generative AI
 
